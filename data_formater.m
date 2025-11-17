@@ -4,9 +4,9 @@ clear all; close all; clc;
 % Add the path to the linux-80211n-csitool-supplementary/matlab directory
 matlab_tool_path = '/home/mingzhe/linux-80211n-csitool-supplementary/matlab';
 % Specify the CSI data file to read
-csi_filename = '10_31/test_4.dat';
+csi_filename = '11_14/11_14_ep_1.dat';
 %Specify the output file
-output_filename = 'mat_file/10_31_4.mat';
+output_filename = 'mat_file/11_14_100.mat';
 addpath(matlab_tool_path);
 
 
