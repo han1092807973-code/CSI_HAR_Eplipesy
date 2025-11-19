@@ -8,7 +8,7 @@ function run_csi_pipeline(filename_arg)
 
     % --- CONFIGURATION ---
     % Directory containing the raw .dat files (assuming they are in '11_14' subfolder based on your code)
-    base_data_dir = '/home/mingzhe/data_collection/11_14/'; 
+    base_data_dir = '/home/mingzhe/data_collection/dataset/'; 
     
     % Directory where .mat files should be saved
     output_mat_dir = '/home/mingzhe/data_collection/mat_file/';
