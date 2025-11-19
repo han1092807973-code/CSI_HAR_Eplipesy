@@ -1,0 +1,14 @@
+data format: u[user index]-[event index]-[instance index]
+Event index
+1. 5x epilpesy simulation ( 15s serizure + 15s no movement)
+2. 5x walking simulation (walking in the beginning for one back and forth)
+3. 5x phone vibration
+4. 5x zero movement
+5. 5x normal event (posture adjustment, stretching, coughing, sneezing, jerking)
+
+
+width 2.5m height 0.6m
+
+User index
+Don: subject 1
+Mingzhe: subject 2
